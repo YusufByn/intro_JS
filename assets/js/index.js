@@ -63,3 +63,7 @@ tata = toto;
 toto = invers;
 
 console.log("dans toto:" + toto, "dans tata:" + tata)
+
+// en gros voit ca comme des verres d'eau, tu as 2 verres, toto et tata, tu en sors un 3eme invers,
+//  tu rempli tata dedans, ensuite dans tata tu mets toto étant donné que tu as vidé tata dans invers,
+// et donc ca s'est inversé quoi regarde la ligne de code tu comprendras mieux.
