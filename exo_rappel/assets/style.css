@@ -1,0 +1,15 @@
+.hugeSize {
+    font-size: 45px;
+}
+
+.red {
+    color: red;
+}
+
+.displayOff {
+    display: none;
+}
+
+.displayOn {
+    display: block;
+}
